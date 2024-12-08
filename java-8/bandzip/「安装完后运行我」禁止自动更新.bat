@@ -1,0 +1,1 @@
+reg add HKCU\Software\Bandizip /f /v bCheckUpdate /t REG_DWORD /d 0
