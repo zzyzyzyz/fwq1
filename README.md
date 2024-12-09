@@ -1,9 +1,10 @@
 ***  
 # ****免责声明****  
-这是一个自用mc服务器依赖库，详情请问群主，本库所有文件均来自于网络，请勿随意使用，本库所有文件仅用于mc服务器，无关人员请无视本库，对于下载本库文件所引发的任何事情不承担任何相关责任  
+> 这是一个自用mc服务器依赖库，详情请问群主，本库所有文件均来自于网络，请勿随意使用，本库所有文件仅用于mc服务器，无关人员请无视本库，对于下载本库文件所引发的任何事情不承担任何相关责任  
 ***  
-[java](#java)  
-[启动器](#启动器)  
+> 目录
+>> [java](#java)  
+   [启动器](#启动器)  
 ***  
 
 > ## java  
@@ -30,7 +31,8 @@ pcl2
 [MCSL-Sync](https://sync.mcsl.com.cn/)  
 服务器搭建[教程](https://blog.csdn.net/weixin_45445598/article/details/115253558)
 (每个服务器遇到的问题不一样，不会就直接百度  
-![a](https://tse2-mm.cn.bing.net/th/id/OIP-C.G139jRWQDNvO_CpCe1T0tgHaGf?w=190&h=180&c=7&r=0&o=5&pid=1.7) ![a](https://tse4-mm.cn.bing.net/th/id/OIP-C.634y5lx7w_PX7e3ZUblEowAAAA?w=214&h=170&c=7&r=0&o=5&pid=1.7)  
+![a](https://tse2-mm.cn.bing.net/th/id/OIP-C.G139jRWQDNvO_CpCe1T0tgHaGf?w=190&h=180&c=7&r=0&o=5&pid=1.7) ![a](https://tse4-mm.cn.bing.net/th/id/OIP-C.634y5lx7w_PX7e3ZUblEowAAAA?w=214&h=170&c=7&r=0&o=5&pid=1.7)
+***
 
 
 
