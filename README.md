@@ -5,6 +5,6 @@
 > ## (1)  
 >> 文件夹内java为java分包压缩，发行包内java为直接压缩
 >> java教程-[JAVA软件的安装](https://www.cnblogs.com/xiaobai-cs/p/Java.html)  
-java下载链接(没找到下次一定  
+[java下载链接](https://helpx.adobe.com/coldfusion/kb/coldfusion-downloads.html#downloads3)  
 >> java官网最新免费[jdk23](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe)win版(不可能有人用linux玩mc吧
 ***
